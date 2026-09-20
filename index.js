@@ -1,6 +1,6 @@
 const SUPABASE_URL="https://ujnsqwefeilffsxefmbj.supabase.co";
 const SUPABASE_KEY="sb_publishable_9h7gRWVjtTK-DAe1jdFujw_KD3bFeS2";
-const AI_MODEL="@cf/meta/llama-3.1-8b-instruct-fast";
+const AI_MODEL="@cf/meta/llama-3.1-8b-instruct";
 const BOT_USERNAME="AnjezliAI_bot";
 const DEVELOPER_USERNAME="apwonoaf4";
 const FREE_DAILY_LIMIT=30;
